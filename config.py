@@ -12,3 +12,5 @@ class Config(object):
     MAIL_USERNAME = None
     MAIL_PASSWORD = None
     ADMINS = ['belitckiu.lex@gmail.com']
+    WEB = 13
+
